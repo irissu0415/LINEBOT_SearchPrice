@@ -1,0 +1,10 @@
+Flask
+Flask-SQLAlchemy
+jieba
+mysql-connector-python
+mysqlclient
+numpy
+opencv-python
+PyMySQL
+tensorflow
+line-bot-sdk
